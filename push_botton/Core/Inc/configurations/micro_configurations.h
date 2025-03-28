@@ -1,0 +1,14 @@
+/*
+ * micro_configurations.h
+ *
+ *  Created on: Mar 28, 2025
+ *      Author: sarayetel
+ */
+
+#ifndef INC_CONFIGURATIONS_MICRO_CONFIGURATIONS_H_
+#define INC_CONFIGURATIONS_MICRO_CONFIGURATIONS_H_
+
+#define LED_MANGER_WITH_PUSH_BOTTON_DISABLE	(0)
+#define LED_MANGER_WITH_PUSH_BOTTON_ENABLE	(1)
+
+#endif /* INC_CONFIGURATIONS_MICRO_CONFIGURATIONS_H_ */

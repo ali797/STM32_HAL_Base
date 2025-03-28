@@ -1,0 +1,4 @@
+../Core/Inc/led_manger.h:17:20:green_led_command	16	static
+../Core/Src/uart_command_library.c:32:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/uart_command_library.c:46:6:received_data_init	16	static
+../Core/Src/uart_command_library.c:55:6:received_data_parser	16	static
